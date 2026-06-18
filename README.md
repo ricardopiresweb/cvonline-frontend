@@ -34,4 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# cvonline
+# cvonline - layouts
+<img width="1600" height="964" alt="cvonline-steampunk" src="https://github.com/user-attachments/assets/6d76edab-8eea-4933-a56d-598b0bb79ec8" />
+<img width="1600" height="946" alt="cvonline-dark" src="https://github.com/user-attachments/assets/e81950ee-1350-4125-8298-c38b3f8b4032" />
+<img width="1600" height="928" alt="cvonline-pixelart" src="https://github.com/user-attachments/assets/04303428-c9ff-4759-a8ef-4f50f1b76cbf" />
+<img width="1600" height="932" alt="cvonline-medieval" src="https://github.com/user-attachments/assets/35027c8d-d5bc-4dba-953d-cbd2348a954e" />
+
